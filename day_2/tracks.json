@@ -1,0 +1,184 @@
+[
+    {
+        "composer": "A. Vivaldi",
+        "features": {
+            "energy": 0.7,
+            "era": 0.1,
+            "mood": 0.9,
+            "tempo": 0.8,
+            "weight": 0.5
+        },
+        "file": "music/Antonio Vivaldi- The Four Seasons- Spring- Allegro.mp3",
+        "id": 1,
+        "previewStart": 5000,
+        "title": "The Four Seasons - Spring (Allegro)"
+    },
+    {
+        "composer": "J.S. Bach",
+        "features": {
+            "energy": 0.2,
+            "era": 0.05,
+            "mood": 0.55,
+            "tempo": 0.2,
+            "weight": 0.4
+        },
+        "file": "music/bach_air.mp3",
+        "id": 2,
+        "previewStart": 22000,
+        "title": "Air on the G String"
+    },
+    {
+        "composer": "L. van Beethoven",
+        "features": {
+            "energy": 0.95,
+            "era": 0.3,
+            "mood": 0.2,
+            "tempo": 0.9,
+            "weight": 0.35
+        },
+        "file": "music/BEETHOVEN, Moonlight Sonata, 3. Genial Presto agitato. Dubravka.mp3",
+        "id": 3,
+        "previewStart": 10000,
+        "title": "Moonlight Sonata - III. Presto agitato"
+    },
+    {
+        "composer": "F. Chopin",
+        "features": {
+            "energy": 0.25,
+            "era": 0.5,
+            "mood": 0.5,
+            "tempo": 0.3,
+            "weight": 0.25
+        },
+        "file": "music/Chopin - Nocturne in E Flat Major (Op. 9 No. 2).mp3",
+        "id": 4,
+        "previewStart": 5000,
+        "title": "Nocturne in E-flat major, Op.9 No.2"
+    },
+    {
+        "composer": "C. Debussy",
+        "features": {
+            "energy": 0.3,
+            "era": 0.75,
+            "mood": 0.6,
+            "tempo": 0.4,
+            "weight": 0.3
+        },
+        "file": "music/Debussy_ Arabesque No.1 In E Major L.66.mp3",
+        "id": 5,
+        "previewStart": 0,
+        "title": "Arabesque No.1"
+    },
+    {
+        "composer": "W.A. Mozart",
+        "features": {
+            "energy": 0.6,
+            "era": 0.25,
+            "mood": 0.85,
+            "tempo": 0.75,
+            "weight": 0.5
+        },
+        "file": "music/Eine Kleine Nachtmusik - Mozart.mp3",
+        "id": 6,
+        "previewStart": 5000,
+        "title": "Eine kleine Nachtmusik - I. Allegro"
+    },
+    {
+        "composer": "Joe Hisaishi",
+        "features": {
+            "energy": 0.35,
+            "era": 0.95,
+            "mood": 0.6,
+            "tempo": 0.5,
+            "weight": 0.35
+        },
+        "file": "music/Joe Hisaishi - Summer.mp3",
+        "id": 7,
+        "previewStart": 104000,
+        "title": "Summer"
+    },
+    {
+        "composer": "L. van Beethoven",
+        "features": {
+            "energy": 0.2,
+            "era": 0.3,
+            "mood": 0.2,
+            "tempo": 0.15,
+            "weight": 0.3
+        },
+        "file": "music/Moonlight Sonata, 1st Movement.mp3",
+        "id": 8,
+        "previewStart": 252000,
+        "title": "Moonlight Sonata - I. Adagio sostenuto"
+    },
+    {
+        "composer": "J.S. Bach (Pablo Casals)",
+        "features": {
+            "energy": 0.35,
+            "era": 0.05,
+            "mood": 0.55,
+            "tempo": 0.45,
+            "weight": 0.2
+        },
+        "file": "music/Pablo Casals Bach Cello Suite No.1 in G No.1.mp3",
+        "id": 9,
+        "previewStart": 0,
+        "title": "Cello Suite No.1 in G - Prelude"
+    },
+    {
+        "composer": "G. Faure",
+        "features": {
+            "energy": 0.3,
+            "era": 0.7,
+            "mood": 0.6,
+            "tempo": 0.45,
+            "weight": 0.25
+        },
+        "file": "music/Pelleas et Melisande, Op. 80_ III. Sicilienne (arr. for flute and harp).mp3",
+        "id": 10,
+        "previewStart": 3000,
+        "title": "Pelleas et Melisande - Sicilienne"
+    },
+    {
+        "composer": "Liszt",
+        "features": {
+            "energy": 1,
+            "era": 0.64,
+            "mood": 0.92,
+            "tempo": 0.5,
+            "weight": 0.14
+        },
+        "file": "music/Liszt_ Paganini Etude No.3 In G Sharp Minor S.141 'La Campanella'.mp3",
+        "id": 11,
+        "previewStart": 0,
+        "title": "Liszt_ Paganini Etude No.3 In G Sharp Minor S.141 'La Campanella'"
+    },
+    {
+        "composer": "Dmitri Shostakovich",
+        "features": {
+            "energy": 0.59,
+            "era": 0.4,
+            "mood": 0.33,
+            "tempo": 0.6,
+            "weight": 0.82
+        },
+        "file": "music/Dmitri Shostakovich - Waltz No. 2.mp3",
+        "id": 12,
+        "previewStart": 0,
+        "title": "Dmitri Shostakovich - Waltz No. 2"
+    },
+    {
+        "composer": "Jean Sibelius",
+        "features": {
+            "energy": 0.09,
+            "era": 1,
+            "mood": 0.35,
+            "tempo": 0.3,
+            "weight": 0.2
+        },
+        "file": "music/Jean Sibelius - The Spruce, Op. 75 No. 5  Janne Mertanen.mp3",
+        "id": 13,
+        "previewStart": 0,
+        "title": "Jean Sibelius - The Spruce, Op. 75 No. 5  Janne Mertanen"
+    }
+]
