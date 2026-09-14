@@ -3,7 +3,7 @@
 
 #include <QString>
 #include <QJsonObject>
-#include "features.h"
+#include "musicfeatures.h"
 
 // 곡 한 개의 정보를 담는 클래스.
 class Track

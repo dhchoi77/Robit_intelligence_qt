@@ -3,7 +3,7 @@
 
 #include <QWidget>
 #include "keyword.h"
-#include "features.h"
+#include "musicfeatures.h"
 
 class QSpinBox;
 

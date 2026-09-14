@@ -2,7 +2,7 @@
 #define ADDMUSICDIALOG_H
 
 #include <QDialog>
-#include "features.h"
+#include "musicfeatures.h"
 
 class QLineEdit;
 class QSpinBox;

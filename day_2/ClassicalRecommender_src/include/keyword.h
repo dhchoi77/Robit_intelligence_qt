@@ -3,7 +3,7 @@
 
 #include <QString>
 #include <QVector>
-#include "features.h"
+#include "musicfeatures.h"
 
 // 시작 화면에서 고르는 8개의 키워드.
 // 각 키워드는 취향 공간에서의 '출발점(seed)'을 뜻한다.

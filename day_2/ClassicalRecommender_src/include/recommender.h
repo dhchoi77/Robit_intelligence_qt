@@ -4,7 +4,7 @@
 #include <QVector>
 #include <QSet>
 #include "track.h"
-#include "features.h"
+#include "musicfeatures.h"
 class MusicLibrary;
 
 // 프로그램의 '두뇌'.

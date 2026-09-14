@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include "musiclibrary.h"
 #include "recommender.h"
-#include "features.h"
+#include "musicfeatures.h"
 #include "track.h"
 
 class QStackedWidget;
